@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YFL-dev/robofriends/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/YFL-dev/robofriends/static/js/main.8ca8fbe0.chunk.js",
+    "main.js.map": "/YFL-dev/robofriends/static/js/main.8ca8fbe0.chunk.js.map",
+    "runtime~main.js": "/YFL-dev/robofriends/static/js/runtime~main.efcb021c.js",
+    "runtime~main.js.map": "/YFL-dev/robofriends/static/js/runtime~main.efcb021c.js.map",
+    "static/css/2.a94b31b9.chunk.css": "/YFL-dev/robofriends/static/css/2.a94b31b9.chunk.css",
+    "static/js/2.3d5c1641.chunk.js": "/YFL-dev/robofriends/static/js/2.3d5c1641.chunk.js",
+    "static/js/2.3d5c1641.chunk.js.map": "/YFL-dev/robofriends/static/js/2.3d5c1641.chunk.js.map",
+    "index.html": "/YFL-dev/robofriends/index.html",
+    "precache-manifest.742564f0419363a5e9e5f6be29604048.js": "/YFL-dev/robofriends/precache-manifest.742564f0419363a5e9e5f6be29604048.js",
+    "service-worker.js": "/YFL-dev/robofriends/service-worker.js",
+    "static/css/2.a94b31b9.chunk.css.map": "/YFL-dev/robofriends/static/css/2.a94b31b9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/YFL-dev/robofriends/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
